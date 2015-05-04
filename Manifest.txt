@@ -12,5 +12,6 @@ Rakefile
 lib/canonical-attributes.rb
 lib/canonical_attributes.rb
 lib/canonical_attributes/normalize.rb
+lib/canonical_attributes/restricted.rb
 test/minitest_helper.rb
 test/test_canonical_attributes_normalize.rb
