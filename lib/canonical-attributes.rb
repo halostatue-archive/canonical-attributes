@@ -1,0 +1,1 @@
+require 'canonical_attributes'

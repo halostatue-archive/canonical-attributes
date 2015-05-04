@@ -1,0 +1,16 @@
+.autotest
+.gemtest
+.minitest.rb
+.travis.yml
+Contributing.rdoc
+Gemfile
+History.rdoc
+Licence.rdoc
+Manifest.txt
+README.rdoc
+Rakefile
+lib/canonical-attributes.rb
+lib/canonical_attributes.rb
+lib/canonical_attributes/normalize.rb
+test/minitest_helper.rb
+test/test_canonical_attributes_normalize.rb

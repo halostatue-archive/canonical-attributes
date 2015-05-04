@@ -1,0 +1,30 @@
+= canonical-attributes
+
+home :: https://halostatue/canonical-attributes.github.io/
+code :: https://github.com/halostatue/canonical-attributes/
+bugs :: https://github.com/halostatue/canonical-attributes/issues
+continuous integration :: {<img src="https://travis-ci.org/halostatue/canonical-attributes.png" />}[https://travis-ci.org/halostatue/canonical-attributes]
+
+== Description
+
+FIX (describe your package)
+
+== Features/Problems
+
+* FIX (list of features or problems)
+
+== Synopsis
+
+  FIX (code sample of usage)
+
+== Requirements
+
+* FIX (list of requirements)
+
+== Install
+
+* FIX (sudo gem install, anything else)
+
+:include: Contributing.rdoc
+
+:include: Licence.rdoc
