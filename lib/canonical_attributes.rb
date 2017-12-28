@@ -1,6 +1,6 @@
 # The namespace for concerns designed to help define canonical attributes.
 module CanonicalAttributes
-  VERSION = '0.1.1' #:nodoc:
+  VERSION = '0.2' #:nodoc:
 end
 
 require 'canonical_attributes/normalize'

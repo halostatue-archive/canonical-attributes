@@ -33,7 +33,7 @@ Hoe.spec 'canonical-attributes' do
 
   license 'MIT'
 
-  self.extra_deps << ['activesupport', '>= 3.2', '< 5.0']
+  self.extra_deps << ['activesupport', '>= 3.2', '< 5.2']
 
   self.extra_dev_deps << ['active_attr', '~> 0.8']
   self.extra_dev_deps << ['hoe-doofus', '~> 1.0']

@@ -1,8 +1,8 @@
-=== 1.0 / YYYY-MM-DD
+=== 0.2 / 2017-12-28
 
-* 1 major enhancement
+* 1 minor enhancement
 
-  * Public Birthday!
+  * Permit Rails 5, 5.1
 
 === 0.1 / 2015-05-04
 

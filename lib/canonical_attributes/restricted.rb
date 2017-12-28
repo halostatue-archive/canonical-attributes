@@ -200,9 +200,7 @@ module CanonicalAttributes::Restricted
                   xform
                 else
                   xform = Array(xform)
-                  ->(v) {
-                    v && xform.inject(v) { |v, m| v && v.__send__(m) }
-                  }
+                  ->(v) { v && xform.inject(v) { |vv, m| v && vv.__send__(m) } }
                 end
 
         define_method("#{attribute}=".to_sym) do |value|
